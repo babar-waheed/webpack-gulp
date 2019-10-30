@@ -1,0 +1,22 @@
+{
+  "name": "gulp-webpack",
+  "version": "1.0.0",
+  "description": "Gulp with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babar-waheed/webpack-gulp.git"
+  },
+  "author": "Babs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babar-waheed/webpack-gulp/issues"
+  },
+  "homepage": "https://github.com/babar-waheed/webpack-gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
